@@ -1,5 +1,5 @@
 // HWK 5 Narrative Viz — Building + Parking Lot (instance mode)
-registerSketch('sk15', function (p) {
+registerSketch('sk5', function (p) {
 
     const DATA = [
       { year: 2020, unemp: 8.1, fitK: 492.7 },
